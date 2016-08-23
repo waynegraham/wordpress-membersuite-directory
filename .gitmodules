@@ -1,0 +1,3 @@
+[submodule "sdk-php"]
+	path = sdk-php
+	url = https://github.com/membersuite/sdk-php.git
